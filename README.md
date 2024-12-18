@@ -11,6 +11,7 @@
 ### 预备知识和相关资料
 - [量化交易相关资源索引](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/1)
 - [Python数据分析相关资源索引](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/2)
+- [股票知识相关资源索引](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/4)
 
 ### 数据分析环境和数据准备
 - TODO
