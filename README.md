@@ -5,7 +5,6 @@
 - 交易市场是中国A股，笔记内容会在 [Discussions](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions) 中进行更新。  
 - 欢迎大家一起学习和讨论，有任何问题请在相关笔记下进行评论，或者在 [Issues](https://github.com/0x134DB4F/LearningQuantitativeTrading/issues) 中留言。   
 - 笔记内容有更新的话我会发布Release。
-- 有个用来闲聊的Discord群：[量化交易学习交流]()。
 
 ---
 
@@ -35,3 +34,10 @@
 
 ### 量化交易模拟和实盘
 - TODO
+
+---
+
+| 闲聊群                            | 
+|-------------------------------------------|
+| <a href="https://discord.com/invite/DEQZ9rGhSZ" target="_blank" ><img alt="Discord" src="https://img.shields.io/discord/1319169744301064252?style=for-the-badge&logo=Discord"></a> | 
+  
