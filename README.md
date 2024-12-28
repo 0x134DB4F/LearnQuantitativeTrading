@@ -1,4 +1,4 @@
-# LearningQuantitativeTrading
+# 量化交易学习笔记
 
 ## 介绍
 - 这里用来记录自己的量化交易学习笔记，通过量化交易更好的炒股（消费）。  
@@ -39,5 +39,5 @@
 
 | 闲聊群                            | 
 |-------------------------------------------|
-| <a href="https://discord.com/invite/DEQZ9rGhSZ" target="_blank" ><img alt="Discord" src="https://img.shields.io/discord/1319169744301064252?style=for-the-badge&logo=Discord"></a> | 
+| <a href="https://discord.com/invite/DEQZ9rGhSZ" ><img alt="Discord" src="https://img.shields.io/discord/1319169744301064252?style=for-the-badge&logo=Discord"></a> | 
   
