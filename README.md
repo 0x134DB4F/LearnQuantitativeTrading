@@ -2,10 +2,12 @@
 
 ## 介绍
 - 这里用来记录自己的量化交易学习笔记，通过量化交易更好的炒股（消费）。
-- 由于是笔记，只会记录一些主线，比如实践过程和关键点，对于网络上能够搜索到的教程等内容，不会再大篇幅的重复介绍。
-- 交易市场是中国A股，笔记内容会在 [Discussions](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions) 中进行更新。  
-- 欢迎大家一起学习和讨论，有任何问题请在相关笔记下进行评论，或者在 [Issues](https://github.com/0x134DB4F/LearningQuantitativeTrading/issues) 中留言。   
-- 笔记内容有更新的话我会发布Release。
+- 由于是笔记，所以：
+  - 有些内容可能会很短，只会记录一些主线，比如实践过程和关键点；
+  - 对于网络上能够搜索到的教程等内容，不会再大篇幅的重复介绍。
+- 交易标的物是中国A股主板的股票和场内ETF基金。
+- 笔记内容会在 [Discussions](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions) 中进行更新。  
+- 欢迎大家一起学习和讨论，有任何问题请在相关笔记下进行评论，或者在 [Issues](https://github.com/0x134DB4F/LearningQuantitativeTrading/issues) 中留言。 
 
 ---
 
