@@ -16,34 +16,37 @@
 ### 快速入门
 - TODO
 
-### 资源索引
+### 进阶
+#### 资源索引
 - [股票知识相关资源索引](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/4)
 - [量化交易相关资源索引](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/1)
 - [数据分析相关资源索引](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/2)
 - [机器学习相关资源索引](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/5)
 
-### 数据分析环境和数据准备
+#### 数据分析环境和数据准备
 - TODO
   
-### 一些基础概念和指标
+#### 一些基础概念和指标
 - TODO
   
-### 一些基础策略和回测
+#### 一些基础策略和回测
 - TODO
 
-### 多因子选股策略
+#### 多因子选股策略
 - TODO
 
-### 使用机器学习
+#### 使用机器学习
 - Qlib库使用
   - TODO
-### 使用大模型
+#### 使用大模型
 - TODO
 
-### 量化交易模拟和实盘
+#### 量化交易模拟和实盘
 - TODO
 
 ---
+
+## 其他
 
 | 闲聊群                            | 
 |-------------------------------------------|
