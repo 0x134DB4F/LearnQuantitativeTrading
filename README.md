@@ -10,6 +10,9 @@
 
 ## 笔记目录
 
+### 快速入门
+- TODO
+
 ### 资源索引
 - [股票知识相关资源索引](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/4)
 - [量化交易相关资源索引](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/1)
