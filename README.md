@@ -8,7 +8,7 @@
 
 ## 笔记目录
 
-### 预备知识和相关资料
+### 资源索引
 - [股票知识相关资源索引](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/4)
 - [量化交易相关资源索引](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/1)
 - [数据分析相关资源索引](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/2)
@@ -23,11 +23,12 @@
 ### 一些基础策略和回测
 - TODO
 
-### 多因子
+### 多因子选股策略
 - TODO
 
-### 机器学习
-- TODO
+### 使用机器学习
+- Qlib库使用
+  - TODO
 
 ### 量化交易模拟和实盘
 - TODO
