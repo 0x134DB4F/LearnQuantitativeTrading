@@ -19,7 +19,7 @@
 ## 笔记目录
 
 ### 快速入门
-- TODO
+- [使用掘金量化终端体验量化交易整体流程](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/6)
 
 ### 进阶
 
