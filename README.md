@@ -57,6 +57,11 @@
 
 ## 其他
 
+### 读书笔记
+- TODO
+
+### 交流群
+
 | 闲聊群                            | 
 |-------------------------------------------|
 | <a href="https://discord.com/invite/DEQZ9rGhSZ" ><img alt="Discord" src="https://img.shields.io/discord/1319169744301064252?style=for-the-badge&logo=Discord"></a> | 
