@@ -29,15 +29,6 @@
 - [数据分析相关资源索引](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/2)
 - [机器学习相关资源索引](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/5)
 
-#### 数据分析基础
-- TODO
-
-#### 机器学习基础
-- TODO
-
-#### 经济金融基础
-- TODO
-
 #### 股票量化分析
 
 ##### 数据准备
