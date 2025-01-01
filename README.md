@@ -51,6 +51,7 @@
 #### 其他策略
 ##### 使用大模型
 - [尝试DeepSeek](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/9)
+- [尝试Moonshot](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/10)
 
 ##### 打板策略
 - TODO
