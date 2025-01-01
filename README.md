@@ -30,7 +30,7 @@
 - [数据分析相关资源索引](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/2)
 - [机器学习相关资源索引](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/5)
 
-#### 股票量化分析
+#### 量化分析
 
 ##### 数据准备
 - TODO
@@ -47,6 +47,8 @@
 ##### 使用机器学习
 - Qlib库使用
   - [安装并运行QLib](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/8)
+
+#### 其他分析方式
 ##### 使用大模型
 - TODO
 
