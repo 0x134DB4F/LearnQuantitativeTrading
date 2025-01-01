@@ -46,7 +46,7 @@
 
 ##### 使用机器学习
 - Qlib库使用
-  - TODO
+  - [安装并运行QLib](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/8)
 ##### 使用大模型
 - TODO
 
