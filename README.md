@@ -48,8 +48,11 @@
 - Qlib库使用
   - [安装并运行QLib](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/8)
 
-#### 其他分析方式
+#### 其他策略
 ##### 使用大模型
+- TODO
+
+##### 打板策略
 - TODO
 
 ---
