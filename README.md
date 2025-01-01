@@ -50,7 +50,7 @@
 
 #### 其他策略
 ##### 使用大模型
-- TODO
+- [尝试DeepSeek](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/9)
 
 ##### 打板策略
 - TODO
