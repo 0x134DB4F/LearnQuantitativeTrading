@@ -2,8 +2,6 @@
 
 ## 介绍
 - 这里用来记录自己的量化交易学习笔记，通过量化交易更好的炒股（消费）。
-- 这里也会加入一些投资和交易相关的学习笔记，理由：
-  - 程序设计和数据分析都需要领域知识，量化交易需要的领域知识就是投资和交易。
 - 创建这个仓库的目的：
   - 督促自己保持一定频率的学习；
   - 分享更有利于学习，可以帮助自己完善思考逻辑。
@@ -32,10 +30,7 @@
 ### 进阶
 
 #### 外部资源索引
-- [股票知识相关资源索引](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/4)
 - [量化交易相关资源索引](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/1)
-- [数据分析相关资源索引](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/2)
-- [机器学习相关资源索引](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/5)
 
 #### 量化分析
 
@@ -62,20 +57,6 @@
 
 ##### 打板策略
 - TODO
-
-### 投资知识
-- 股票
-  - TODO
-- 期权
-  - TODO
-- 期货
-  - TODO
-- 外汇
-  - TODO
-- 债券
-  - TODO
-- 经济、金融、货币、银行
-  - TODO
 
 ---
 ## 其他
