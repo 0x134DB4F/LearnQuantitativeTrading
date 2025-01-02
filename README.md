@@ -20,7 +20,7 @@
 
 ### 入门
 - 国信iquant
-  - TODO
+  - [国信iquant注册和安装](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/11)
 - 掘金量化
   - [使用掘金量化终端体验量化交易整体流程](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/6)
 - 其他
