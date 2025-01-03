@@ -61,7 +61,8 @@
 #### 加密货币
 - OKX
   - [加密货币-试用OKX的API](https://github.com/0x134DB4F/LearnQuantitativeTrading/discussions/12)
-
+- Freqtrade交易机器人
+  - [Freqtrade自动交易机器人试用](https://github.com/0x134DB4F/LearnQuantitativeTrading/discussions/13)
 ---
 ## ★ 其他
 
