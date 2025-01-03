@@ -1,6 +1,6 @@
 # 量化交易学习笔记
 
-## 介绍
+## ★ 介绍
 - 这里用来记录自己的量化交易学习笔记，通过量化交易更好的炒股（消费）。
 - 创建这个仓库的目的：
   - 督促自己保持一定频率的学习；
@@ -17,9 +17,9 @@
 
 ---
 
-## 笔记目录
+## ★ 笔记目录
 
-### 入门
+### 一、入门
 - 国信iquant
   - [国信iquant注册和安装](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/11)
 - 掘金量化
@@ -27,12 +27,13 @@
 - 其他
   - [使用PyBroker进行回测](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/7)
 
-### 进阶
 
-#### 外部资源索引
+### 二、进阶
+
+#### 1、外部资源索引
 - [量化交易相关资源索引](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/1)
 
-#### 量化分析
+#### 2、量化分析
 
 ##### 数据准备
 - TODO
@@ -50,14 +51,19 @@
 - Qlib库使用
   - [安装并运行QLib](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/8)
 
-#### 其他策略
+#### 3、其他策略
 ##### 使用大模型
 - [尝试DeepSeek](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/9)
 - [尝试Moonshot](https://github.com/0x134DB4F/LearningQuantitativeTrading/discussions/10)
 
+### 三、其他市场
+对于其他市场，我暂时只会考虑模拟交易，用来学习和实践一些量化交易策略
+#### 加密货币
+- OKX
+  - [加密货币-试用OKX的API](https://github.com/0x134DB4F/LearnQuantitativeTrading/discussions/12)
 
 ---
-## 其他
+## ★ 其他
 
 | 闲聊群                            | 
 |-------------------------------------------|
